@@ -1,4 +1,4 @@
-# Aslzhasl-Aslzhasl
+# Aslzhasl
 <h1 align="center">Hi 👋, I'm Asylzhan</h1>
 <h3 align="center">Golang Backend Engineer | Microservices | High-Load Systems</h3>
 
