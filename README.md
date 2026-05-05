@@ -59,4 +59,4 @@
 ---
 
 ### ⚡ Fun Fact
-I enjoy optimizing backend systems more than writing them from scratch 🚀
+I enjoy optimizing backend systems more than writing them from scratch there is no short cuts i prefer to learn it in hard way 🚀
