@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 💻 Backend Engineer specializing in **Golang**
+- 💻 Backend **Golang** dev
 - ⚙️ Building scalable **microservices and REST/gRPC APIs**
 - 📊 Worked with **high-load systems (200K–300K daily users)**
 - 🧠 Interested in **distributed systems & performance optimization**
